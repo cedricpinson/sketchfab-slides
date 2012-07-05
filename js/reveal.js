@@ -946,6 +946,6 @@ var Reveal = (function(){
 			( dom.wrapper || document.querySelector( '.reveal' ) ).removeEventListener( type, listener, useCapture );
 		}
 	};
-	
+
 })();
 
